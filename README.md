@@ -134,9 +134,9 @@ The dashboard includes:
 * 📈 Sales Trends Over Time
 * 🎛 Interactive filters (Slicers)
 
-Dashboard Preview:
+Dashboard Link:
 
-![Dashboard](dashboard.png)
+https://app.powerbi.com/links/5X74wwq8SQ?ctid=fa7e31a0-d802-442a-a11d-dd99271b08bb&pbi_source=linkShare
 
 ---
 
